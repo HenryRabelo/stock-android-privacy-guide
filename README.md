@@ -8,5 +8,7 @@ This will guide you on how to neuter invasive software from Android devices, gra
 ##### Intro:
 Before we start, I would like to state that this guide is intended to be applied to devices that have **close-to-stock ROMs**, such as Motorola devices, but are also applicable to Google Pixel.
 
-Why Motorola, you ask? Why, Pixels are not readly available on markets outside of the US and the EU. As such, I am making this script thinking of those who do not have the chance to buy Pixel devices. While Motorola **is** owned by Lenovo at the time of writing, and as such likely has invasive regional practices, it also offers a ROM that is closest to stock and affordable phones worldwide with not much bloatware shipped by default.
+Why Motorola, you ask? Why, Pixels are not readly available on markets outside of the US and the EU. As such, I am making this guide thinking of those who do not have the chance to buy Pixel devices. While Motorola **is** owned by Lenovo at the time of writing, and as such likely has invasive regional practices, it also offers a ROM that is closest to stock and affordable phones worldwide with not much bloatware shipped by default.
 
+##### Preparations:
+First things first, we will do what many privacy advocates consider blasphemy: We will create a new Google Account.

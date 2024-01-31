@@ -11,4 +11,9 @@ Before we start, I would like to state that this guide is intended to be applied
 Why Motorola, you ask? Why, Pixels are not readly available on markets outside of the US and the EU. As such, I am making this guide thinking of those who do not have the chance to buy Pixel devices. While Motorola **is** owned by Lenovo at the time of writing, and as such likely has invasive regional practices, it also offers a ROM that is closest to stock and affordable phones worldwide with not much bloatware shipped by default.
 
 ##### Preparations:
-First things first, we will do what many privacy advocates consider blasphemy: We will create a new Google Account.
+First things first, we will do what many privacy advocates consider to be blasphemy: We will create a new Google Account. I know, I know, Google is not privacy respecting, yada, yada. The simple fact is, stock Android is a Google product, and integration is deep. However, there are still things we can do.
+
+For this, take the following considerations:
+- Use a computer for this. Open Private Mode / Incognito Mode.
+- When creating a new Google account for personal use, choose a generic name (no surname) and birthday. For gender, choose "Prefer not to say".
+- When you are asked to create a new gmail address, choose "Use Existing Address"

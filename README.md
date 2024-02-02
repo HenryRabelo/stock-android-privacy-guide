@@ -13,7 +13,7 @@ Why Motorola, you ask? Why, Pixels are not readly available on markets outside o
 ##### Preparations:
 First things first, we will do what many privacy advocates consider to be blasphemy: We will create a new Google Account. I know, I know, Google is not privacy respecting, yada, yada. We cannot, however, sacrifice security in the name of privacy, and Android's bleeding edge security features actually require your Google login to work. We are going to take advantage of those features, and of the privacy toggles available on Android.
 
-###### Create you Google Account:
+###### Create a new Google Account:
 
 To create your Google account, consider the following:
 - Use a computer for this. Open Private Mode / Incognito Mode.
@@ -32,4 +32,12 @@ Now, after you have created your account, click on the user bubble at the corner
 
 ###### The "People and Sharing" Menu:
 
+- Scroll down to the "Contacts" section. Turn off all options.
+- Scroll down to the "Enterprise Resources" section and turn off Personalization for Enterprise.
+- To the side of "Enterprise Resources", turn off Shared Recommendations on Ads
 
+Those **should** be all the options, but browse around a bit to check if there are any more options in your country. You can add a profile picture if you'd like, on the "Personal Information" side menu (Choose one of the default options).
+
+With that, we can begin setting up the Android device on hand.
+
+##### Setup the Android Device:

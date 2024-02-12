@@ -108,5 +108,72 @@ Enter the Google section of the Settings app and change the following settings:
 These settings give Google more data about you and how you use your device, but also can offer some much appreciated convenience. Use at your own discretion.
 
 ###### Settings - System - Backup:
-You can choose which elements you back up to Google Drive, such as only backing up app data. Activating backups will opt you into backing up app and device settings automatically.
+- Activating backups will opt you into backing up app and device settings automatically. It will also back up received and sent messages and calls. Most countries use dedicated chat apps, so message history might not be all that important.
 - Photos and videos: It is recommended to leave this as Off, whether or not you choose to backup app and device data.
+
+##### App Deactivation:
+We will now remove some pre-installed apps which won't be utilized. Open system settings and view all installed apps. To the side of the search icon, tap the three dots and then select "Show system". Some Google apps which we are disabling could be installed as system apps, but we will not be touching any of the actual system apps.
+- GMail
+- YouTube
+- Google Chrome
+- Google Calendar / Tasks
+- Google Docs / Sheets / Slides / Keep
+- Google News
+- Google Play Movies & TV (Google TV) / Google Play Music
+- Google Maps (optional)
+- Google Translate (optional)
+- Google Wallet (optional)
+- Google One (optional)
+- Google Drive (optional: Drive can open PDFs and inform which app data has been backed up)
+- Google app (optional: Google app controls voice commands and can inform the weather)
+- Android Auto (optional)
+
+##### App Management
+Some Google apps can be used without a signed in account. We will open the following apps and disable the signed in account, so we can use those apps without giving Google data. Some apps offer to be used without an account on the first-run pop-up that can be seen when you open the app, and others can be disabled by tapping your account profile picture on the upper right corner of the open app, tapping the arrow to the right of your username and selecting the "Use without an account" option.
+- Google Dialer
+- Google Messages
+- Google Contacts
+- Google Photos
+- Google Translate
+- Google Recorder
+- Google Personal Safety
+
+The Google Maps app specifically can be used in a constant Incognito mode. It is recommended to select that option.
+
+Overall, the apps we are keeping are:
+- GBoard
+- Google Phone
+- Google Messages
+- Google Contacts
+- Google Photos
+- Google Clock
+- Google Calculator
+- Google Files (prefer the default file manager)
+- Google Pixel Camera (if available)
+- Google Recorder  (if available)
+- Google Personal Safety (if available)
+- Google Digital Wellbeing (if available)
+
+The following apps are optional, they can be either kept or disabled:
+- Google app (Google app controls voice commands and can inform the weather)
+- Google Drive (Drive can open PDFs and inform which app data has been backed up)
+- Google One
+- Google Wallpapers
+- Google Maps
+- Google Translate
+- Google Wallet
+- Google Authenticator
+- Google Find My Device app
+- Android Auto
+- YouTube
+
+###### Wrapping up:
+A few extra things you can do:
+- Opt out of your carrier advertising and telemarketing (If available in your country)
+- Opt out of debit card and credit card data collection (If available in your country)
+
+Some things to keep in mind:
+- Remember to reboot your phone at least once a day. This simple action helps with your security, since a lot of smartphone malware do not persist through reboots.
+- To take advantage of the Find My Device functionality, remember to turn on location services only when you are walking outside, and to turn it off when you are close to your destination. Also turning Wi-fi off helps to save battery.
+- Try not to let your battery fall below 30% and do not charge it above 80% when . When you need to charge it, aways take off your phone case, if you have one, and turn your phone off for charging. With fast charging technologies, you won't need to wait longer than 30 minutes with your phone turned off. Keeping all this in mind will help your battery last longer.
+- Keep in mind that Digital Minimalism is also the key to Digital Privacy. Try to keep as few apps installed as possible and aways be mindful as to where those apps are sending your data, or if they are indeed.

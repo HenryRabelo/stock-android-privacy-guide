@@ -167,6 +167,22 @@ The following apps are optional, they can be either kept or disabled:
 - Android Auto
 - YouTube
 
+##### App Mitigation
+To switch away from invasive apps, the following apps are recommended:
+- Browser: Brave, Firefox
+- Multimedia: VLC
+- Calendar: Proton Calendar
+- Tasks: Tasks.org
+- VPN Slot: TrackerControl
+- Desktop Integration: Zorin Connect
+- Music identification: Shazam
+- Music Streaming: Apple Music, Youtube Music front-end
+- Password Manager: Bitwarden, Proton Pass, KeePassDX
+- 2FA: Aegis, Google Authenticator
+- Cloud Backup: Proton Drive, EteSync
+- Chat: Whatsapp, RCM messaging, Signal
+- PDF Viewer: Google Drive, Adobe Acrobat
+
 ###### Wrapping up:
 A few extra things you can do:
 - Opt out of your carrier advertising and telemarketing (If available in your country)
